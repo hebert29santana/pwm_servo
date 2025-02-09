@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "author": "Hebert Santana - IFBA Ilhéus",
+    "author": "Hebert Santana",
     "editor": "wokwi",
     "parts": [
       { "type": "board-pi-pico-w", "id": "pico", "top": -12.85, "left": -73.25, "attrs": {} },
