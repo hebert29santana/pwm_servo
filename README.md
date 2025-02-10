@@ -65,6 +65,8 @@ Servo em 90°: LED Verde.
 Servo em 0°: LED Azul.
 Movimentação Suave: Transição de cores entre Azul e Vermelho.
 
+Link do Vídeo: https://drive.google.com/file/d/1obTwc2o8VLfbg47oXXMivdCZBKVbvV7W/view?usp=sharing
+
 ## Código Completo
 O código completo está disponível no arquivo pwm_servo.c deste repositório.
 
